@@ -16,6 +16,8 @@ s=input()#文字列入力
 <details>
 <summary>2問目回答例</summary>
 
+```
+
 ```python
 前,後=map(int,input().split())
 表示=print
@@ -24,6 +26,8 @@ if 数字 % 2 == 0:
     表示('Even')
 else:
     表示('Odd')
+```
+
 ```
 
 </details>
