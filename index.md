@@ -14,7 +14,7 @@ s=input()#文字列入力
 - Product(if条件分岐)
 
 <details>
-<summary>`2問目回答例`</summary>
+<summary>2問目回答例</summary>
 
 <pre>
 前,後=map(int,input().split())
