@@ -1,4 +1,4 @@
-## s
+## 序
 [AtCorder](https://atcoder.jp/contests/abs/tasks)  
 標準入力は
 
