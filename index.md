@@ -1070,8 +1070,7 @@ dfを図にします
 たくさん機能があるのでこんなグラフにしたいみたいなものがあれば
 ググってください
 
-![matplotlib](https://drive.google.com/file/d/1ioMWxnqzbze4zCM18UEXoyIZtKZkyCdW/view?usp=sharing)
-
+![matplotlib](IMG_0808.JPG)
 
 ```python
 import matplotlib.pyplot as plt
