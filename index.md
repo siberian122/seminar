@@ -14,11 +14,9 @@ s=input()#文字列入力
 - Product(if条件分岐)
 
 <details>
-<summary>2問目回答例</summary>
+<summary>`2問目回答例`</summary>
 
-```
-
-```python
+<pre>
 前,後=map(int,input().split())
 表示=print
 数字=前*後
@@ -26,9 +24,7 @@ if 数字 % 2 == 0:
     表示('Even')
 else:
     表示('Odd')
-```
-
-```
+</pre>
 
 </details>
 
