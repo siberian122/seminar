@@ -13,7 +13,8 @@ s=input()#文字列入力
 - Welcome to AtCoder(入力練習)
 - Product(if条件分岐)
 
-
+<details>
+<summary>2問目回答例</summary>
 
 ```python
 前,後=map(int,input().split())
@@ -24,6 +25,8 @@ if 数字 % 2 == 0:
 else:
     表示('Odd')
 ```
+
+</details>
 
 # numpy
 
