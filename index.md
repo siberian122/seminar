@@ -257,7 +257,7 @@ np.sort(bird)
 
 
 
-   array(['🐤','🥚'],dtype='<U1'>)
+    array(['🐤','🥚'],dtype='<U1'>)
 
 
 
