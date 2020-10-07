@@ -249,6 +249,16 @@ arr.mean(axis=0)#列ごとの平均
 
     11
 
+```python
+bird=['🥚','🐤']
+np.sort(bird)
+```
+
+
+
+
+   array(['🐤','🥚'],dtype='<U1'>)
+
 
 
 # Scipy
