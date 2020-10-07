@@ -26,6 +26,12 @@ else:
     表示('Odd')
 </pre>
 
+<pre>
+a,b=map(int,input().split())
+n=a*b
+print('EOvdedn'[n%2==1::2])
+</pre>
+
 </details>
 
 # numpy
