@@ -37,7 +37,7 @@ print('EOvdedn'[n%2==1::2])
 # numpy
 
 - 配列
-- 乱数
+- 乱数(import random)
 - 行列
     - etc
 
